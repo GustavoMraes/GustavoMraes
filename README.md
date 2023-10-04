@@ -36,7 +36,7 @@
 
 ## Sobre
 <br>
-Estou atualmente cursando o ensino técnico integrado de informática no Instituto Federal de São Paulo. Gosto muito de programação de desenvolvimento back-end, e estou a procura de um estágio para que eu possa aprender mais e colocar em prática o que eu já ando aprendendo em meu curso.<br>
+Estou atualmente cursando o ensino técnico integrado de informática no Instituto Federal de São Paulo. Gosto muito de desenvolvimento de software, e estou a procura de um estágio para que eu possa aprender mais e colocar em prática o que eu já ando aprendendo em meu curso.<br>
 
 Email para contato: h.moraes@aluno.ifsp.edu.br
 
